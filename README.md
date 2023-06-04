@@ -153,11 +153,3 @@ COOKIE = qwerty123; // любое значение
 ```bash
 npm start
 ```
-
-### Powered by:
-
-#### 
-- [TaRRaba](https://github.com/TaRRaba)
-- [NPetrovna](https://github.com/NPetrovna)
-- [Aleksshipkov](https://github.com/Aleksshipkov)
-- [RustPo](https://github.com/RustPo)
