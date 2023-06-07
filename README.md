@@ -130,15 +130,7 @@
 npm i
 ```
 
-2. Затем создайте базу данных с помощью терминала:
-
-```bash
-npx sequelize db:create
-npx sequelize db:migrate
-npx sequelize db:seed:all
-```
-
-3. В корне проекта создайте файл .env и заполните его по примеру из файла .env-example
+2. В корне проекта создайте файл .env и заполните его по примеру из файла .env-example
 
 ```js
 // .env-example
@@ -148,8 +140,23 @@ PORT = 3000; // любой порт
 COOKIE = qwerty123; // любое значение
 ```
 
+3. Затем создайте базу данных с помощью терминала:
+
+```bash
+npx sequelize db:create
+npx sequelize db:migrate
+npx sequelize db:seed:all
+```
+
 3. В корне проекта запустите приложение:
 
 ```bash
 npm start
 ```
+
+### Powered by:
+
+- [TaRRaba](https://github.com/TaRRaba)
+- [NPetrovna](https://github.com/NPetrovna)
+- [Aleksshipkov](https://github.com/Aleksshipkov)
+- [RustPo](https://github.com/RustPo)
